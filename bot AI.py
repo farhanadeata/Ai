@@ -5,7 +5,7 @@ import datetime
 import wikipedia
 
 print("jagernaout")
-MASTER = "Farhan ganteng"
+MASTER = "Farhan gantengg"
 mendengarkan = sr.Recognizer()
 engine = pyttsx3.init("sapi5")
 #kecepatan baca
